@@ -94,10 +94,13 @@ The following camera models when deployed in Microsoft Teams Rooms on Windows wi
 - Yealink UVC50 
 - Yealink UVC80 
 - Yealink UVC84
+- Yealink UVC86
+- Yealink Smartvision 40
+- Yealibk Smartvision 60
 
 ## Manage Cloud IntelliFrame
 
-Cloud IntelliFrame is ideal for focus rooms and medium spaces. It may not be ideal for large spaces as people farthest from the camera may appear blurry after digital zoom. You may also want to switch off Cloud IntelliFrame in rooms with glass walls without any privacy filter.
+Cloud IntelliFrame is ideal for focus rooms and medium spaces. It may not be ideal for large spaces as people farthest from the camera may appear blurry after digital zoom. You may also want to switch off Cloud IntelliFrame in rooms with glass walls without any privacy filter. however if you have a large room with multiple camera angles, cloud intelliframe become quite effective.
 
 To switch off Cloud IntelliFrame in a room, perform the following steps:
 
